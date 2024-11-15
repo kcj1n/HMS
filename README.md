@@ -1,13 +1,13 @@
 <h1 align="center">HMS</h1>
 
-### <p align="center">Harmful Monitor System</p>
+### <p align="center">Harmful substance Monitor System</p>
 
 
-## 🌦️ About HMS
+## 🌦️ About HsMS
 
 HMS monitors harmful gases distributed in the air in real-time. The information about harmful gases is received from sensors connected to a remote server, with updates every second. The connection method between the remote server and local clients is via HTTPS, and the remote server stores sensor information such as toluene, benzene, and air quality information in a JSON file. The client uses the AXIOS() function to retrieve data from the server.
 
-## 🌦️ HMS Feature
+## 🌦️ HsMS Feature
 
 
 <img width="1440" alt="screenshot" src="https://github.com/user-attachments/assets/8c8d2905-9c01-47cb-afb1-c6c4afcdf510">
