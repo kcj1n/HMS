@@ -80,15 +80,7 @@ const onoffStyles = {
     filter: 'drop-shadow(0 0 1px rgba(0, 0, 0, 0.3))', // 그림자 효과 추가
   },
 };
-//        <li>1. liquid gauge는 PPM의 값을 색상과 숫자로 표시한다. 색상은 파란색에서부터
-//           빨간색으로 표현된다. 
-//          <li>2. Quality Index는 전제 유해물질 농도를 12단계로 표현한다.
-//          <li>3. PPM Values는 timeseries 입력되는 PPM 값을 보여준다.
-//          <li>4. Air Flow는 Air Flow 값을 보여준다.
-//          <li>5. Toluene는 Toluene PPM 값을 보여준다.
-//          <li>6. Benzene는 Benzene PPM 값을 보여준다.
-//          <li>7. Dust Particles는 Dust Particles 값을 보여준다.
-//----------------------------------------------------------
+
 const SearchBar = ({ getSearchData, conStatus, dataFmt }) => {
   
   const onIcons  = [<BsDiagram3          style={onoffStyles.icon} />, <BsDiagram3Fill style={onoffStyles.icon}/>];
