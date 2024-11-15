@@ -74,13 +74,6 @@ const Secondarydata = ({ mainData }) => {
     setWeatherIcon(iconMappings[WeatherData.description]);
   }, [mainData]);
 
- //let number = 3.14159; // 초기화
- //console.log(number.toFixed(2)); // "3.14"
-
- //const mainData_lat = parseFloat(mainData.lat).toFixed(2); // "3.14"
- //const mainData_lon = parseFloat(mainData.lon).toFixed(2); // "3.14"
- //console.log('mainData.weather.description:', mainData.weather.description);
-
   return (
     <div className="w-[90%] flex flex-col lg:flex-col xs:flex-col sm:flex-row items-start justify-between gap-4 py-6 border-t-2">
       <div className="row flex items-center">
