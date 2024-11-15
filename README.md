@@ -9,6 +9,10 @@ HMS monitors harmful gases distributed in the air in real-time. The information 
 
 ## 🌦️ HMS Feature
 
+
+<img width="1440" alt="screenshot" src="https://github.com/user-attachments/assets/8c8d2905-9c01-47cb-afb1-c6c4afcdf510">
+
+
 1. Liquid Gauge displays the PPM value with colors and numbers, ranging from blue to red.
 2. Quality Index represents the concentration of harmful substances in 12 levels.
 3. PPM Values show the incoming PPM values as a time series.
