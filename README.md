@@ -1,4 +1,4 @@
-<h1 align="center">HMS</h1>
+<h1 align="center">HSM</h1>
 
 ### <p align="center">Harmful Substances Monitor</p>
 
