@@ -1,6 +1,6 @@
 <h1 align="center">HMS</h1>
 
-### <p align="center">Harmful substance Monitor System</p>
+### <p align="center">Harmful substances Monitor System</p>
 
 
 ## 🌦️ About HMS
